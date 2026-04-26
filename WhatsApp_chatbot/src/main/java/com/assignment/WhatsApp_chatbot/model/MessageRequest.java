@@ -1,4 +1,4 @@
-package com.assignment.WhatsApp_chatbot.Model;
+package com.assignment.WhatsApp_chatbot.model;
 
 public class MessageRequest {
 
