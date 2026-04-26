@@ -55,20 +55,14 @@ Body (JSON):
 Example log:
 
 Received message: Hi
-📸 Screenshots
 
-(Add screenshots of Postman request & console logs here)
-
-🎥 Demo Video
-
-(Add your 2–3 minute demo video link here)
 
 🌐 Deployment (Optional)
 
 This project can be deployed on platforms like:
-
-Render
 Railway
+whatsappchatbotassignment-production.up.railway.app
+
 📌 Future Improvements
 Add more chatbot responses
 Integrate real WhatsApp API
@@ -76,7 +70,7 @@ Add database for chat history
 Improve NLP-based responses
 🙌 Author
 
-Your Name
+Mohd Zaid
 
 📄 License
 
